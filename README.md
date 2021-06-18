@@ -1,6 +1,8 @@
 # WeatherProject-OpenWeatherMaps
 We are making use of Open weather maps and getting responses using GET with Express JS and nodeJs
 
+For a clear Formatted View Please View: https://github.com/sanjaytj/API-Handling-1-WeatherProject-OpenWeatherMaps/blob/main/readme-Formatted-Order.txt
+
 When we just pass the https.get(url function(response){
     console.log(response);
 })
